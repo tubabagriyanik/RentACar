@@ -14,4 +14,4 @@ push yaptim
 
 bende push yaptim
 
-
+bekle beni yeni kod
