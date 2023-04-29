@@ -8,5 +8,10 @@ yeno kodlari guncelledim.
 farkli yazdim
 
 baska dev de kod yazar
+
 localde ol
 push yaptim
+
+bende push yaptim
+
+
