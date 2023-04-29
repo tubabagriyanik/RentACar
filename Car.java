@@ -1,0 +1,1 @@
+1. harika kodlar yazdim
