@@ -8,4 +8,5 @@ yeno kodlari guncelledim.
 farkli yazdim
 
 baska dev de kod yazar
+bende push yaptim
 
